@@ -9,6 +9,6 @@ setup(
   author='Siddhesh Sagar',
   author_email='siddheshsagar3182001@gmail.com',
   license='MIT', 
-  packages=['get_fibonacci'],
+  packages=find_packages(),
  zip_safe = False
 )
