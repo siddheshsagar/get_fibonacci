@@ -10,5 +10,5 @@ setup(
   author_email='siddheshsagar3182001@gmail.com',
   license='MIT', 
   packages=find_packages(),
- zip_safe = False
+  zip_safe = False
 )
