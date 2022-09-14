@@ -10,5 +10,3 @@ def calculate_fibonacci(n):
         b = temp
     return temp
 
-
-print(calculate_fibonacci(6))
